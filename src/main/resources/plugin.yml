@@ -1,0 +1,6 @@
+name: Magic
+version: ${project.version}
+main: xyz.kaasplakje.magic.Magic
+commands:
+  magic:
+    description: Get some magic stuff
